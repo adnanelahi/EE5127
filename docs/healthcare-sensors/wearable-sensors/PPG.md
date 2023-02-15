@@ -1,7 +1,6 @@
 ---
 layout: default
 title: PPG
-parent: Wearable Sensors
 ---
 
 # Arduino Programming

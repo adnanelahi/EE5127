@@ -1,7 +1,6 @@
 ---
 layout: default
 title: ECG
-parent: Wearable Sensors
 ---
 
 # Arduino Programming
