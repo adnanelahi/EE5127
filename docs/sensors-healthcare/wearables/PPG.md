@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Arduino Programming
-nav_order: 3
-has_children: true
-permalink: /docs/arduino-programming
+title: PPG
+permalink: permalink: /docs/sensors-healthcare/wearables
 ---
 
 # Arduino Programming
