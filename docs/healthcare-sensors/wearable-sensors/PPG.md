@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PPG
-parent: Wearable Sensors
+parent: Sensors for Healthcare
 ---
 
 # PPG
