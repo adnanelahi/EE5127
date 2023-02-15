@@ -2,7 +2,6 @@
 layout: default
 title: PPG
 parent: Wearable Sensors
-permalink: /docs/healthcare-sensors/wearable-sensors/PPG
 ---
 
 # Arduino Programming

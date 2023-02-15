@@ -2,7 +2,6 @@
 layout: default
 title: ECG
 parent: Wearable Sensors
-permalink: /docs/healthcare-sensors/wearable-sensors/ECG
 ---
 
 # Arduino Programming
