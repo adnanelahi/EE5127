@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Implantable Sensors
-has_children: true
+parent: Sensors for Healthcare
 permalink: /docs/sensors-healthcare/implantables
 ---
 

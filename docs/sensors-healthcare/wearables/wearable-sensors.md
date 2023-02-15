@@ -2,6 +2,7 @@
 layout: default
 title: Wearable Sensors
 has_children: true
+parent: Sensors for Healthcare
 permalink: /docs/sensors-healthcare/wearables
 ---
 

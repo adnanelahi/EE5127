@@ -1,6 +1,7 @@
 ---
 layout: default
 title: PPG
+parent: Wearable Sensors
 permalink: permalink: /docs/sensors-healthcare/wearables
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ECG
+parent: Wearable Sensors
 permalink: /docs/sensors-healthcare/wearables
 ---
 
