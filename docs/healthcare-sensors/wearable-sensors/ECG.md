@@ -1,6 +1,9 @@
 ---
 layout: default
 title: ECG
+grand_parent: Sensors for Healthcare
+parent: Wearable Sensors
+nav_order: 1
 ---
 
 # ECG

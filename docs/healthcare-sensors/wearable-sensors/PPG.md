@@ -3,6 +3,7 @@ layout: default
 title: PPG
 grand_parent: Sensors for Healthcare
 parent: Wearable Sensors
+nav_order: 1
 ---
 
 # PPG
